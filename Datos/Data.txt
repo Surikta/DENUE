@@ -2,4 +2,5 @@ Los datos se pueden extraer de la página del INEGI:
 
 https://www.inegi.org.mx/app/descarga/
 
-Se deberán de descargar todos los archivo .csv del año que quieran realizar el análisis.
+Se deberán de descargar todos los archivo .csv del año que quieran realizar el análisis y extraer los archivos.
+Por razones de tamaño no puedo incluir los datos. Tienen un peso total de 2.42 GB
